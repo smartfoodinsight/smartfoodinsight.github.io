@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bdc7530a.css",
+    "main.js": "/static/js/main.d43474fc.js",
+    "static/js/453.11a86a15.chunk.js": "/static/js/453.11a86a15.chunk.js",
+    "static/media/splash.png": "/static/media/splash.7840b976020fba0e3e54.png",
+    "static/media/google-play-icon.svg": "/static/media/google-play-icon.67253f12bb05aa37c3d773ec49bfe749.svg",
+    "index.html": "/index.html",
+    "main.bdc7530a.css.map": "/static/css/main.bdc7530a.css.map",
+    "main.d43474fc.js.map": "/static/js/main.d43474fc.js.map",
+    "453.11a86a15.chunk.js.map": "/static/js/453.11a86a15.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdc7530a.css",
+    "static/js/main.d43474fc.js"
+  ]
+}
